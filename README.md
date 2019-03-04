@@ -13,7 +13,7 @@ Para a emissão de uma NFe obrigatoriamente precisa conter a informação do NCM
 |---|---|---|---|---|---|---|
 | Código NCM | Categoria do NCM | Descrição do NCM | Início de vigência da NCM  no Siscomex | Fim de vigência da NCM no Siscomex | uTrib para uso em operações de Exportação (Abreviatura) | Descrição da uTrib utilizada em operações de Exportação | 
 
-## Author
+## Autor
 
 **Felipe Mota**
 - <https://github.com/felipemotabr>
