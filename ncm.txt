@@ -1,7 +1,7 @@
 [
  {
    "ncm": 1012100,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01012100 - CAVALOS REPRODUTORES DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -10,7 +10,7 @@
  },
  {
    "ncm": 1012900,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01012900 - OUTROS CAVALOS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -19,7 +19,7 @@
  },
  {
    "ncm": 1013000,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01013000 - ASININOS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -28,7 +28,7 @@
  },
  {
    "ncm": 1019000,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01019000 - OUTROS MUARES VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -37,7 +37,7 @@
  },
  {
    "ncm": 1022110,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01022110 - BOVINOS DOMÉST.REPROD.D/RAÇA PURA,PRENHES OU C/CRIA AO",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -46,7 +46,7 @@
  },
  {
    "ncm": 1022190,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01022190 - OUTROS BOVINOS REPRODUTORES DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -55,7 +55,7 @@
  },
  {
    "ncm": 1022911,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01022911 - OUTROS BOVINOS P/REPRODUÇÃO, PRENHES OU C/CRIA AO PÉ",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -64,7 +64,7 @@
  },
  {
    "ncm": 1022919,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01022919 - OUTROS BOVINOS DOMÉSTICOS PARA REPRODUÇÃO",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -73,7 +73,7 @@
  },
  {
    "ncm": 1022990,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01022990 - OUTROS BOVINOS DOMÉSTICOS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -82,7 +82,7 @@
  },
  {
    "ncm": 1023110,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01023110 - BÚFALOS REPROD.DE RAÇA PURA, PRENHES OU C/CRIA AO PÉ",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -91,7 +91,7 @@
  },
  {
    "ncm": 1023190,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01023190 - OUTROS BÚFALOS REPRODUTORES DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -100,7 +100,7 @@
  },
  {
    "ncm": 1023911,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01023911 - OUTROS BÚFALOS P/REPRODUÇÃO, PRENHES OU C/CRIA AO PÉ",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -109,7 +109,7 @@
  },
  {
    "ncm": 1023919,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01023919 - OUTROS BÚFALOS PARA REPRODUÇÃO",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -118,7 +118,7 @@
  },
  {
    "ncm": 1023990,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01023990 - OUTROS BÚFALOS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -127,7 +127,7 @@
  },
  {
    "ncm": 1029000,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01029000 - OUTROS ANIMAIS VIVOS DA ESPÉCIE BOVINA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -136,7 +136,7 @@
  },
  {
    "ncm": 1031000,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01031000 - REPRODUTORES DA ESPÉCIE SUÍNA DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -145,7 +145,7 @@
  },
  {
    "ncm": 1039100,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01039100 - OUTROS SUÍNOS REPROD.PESO INFERIOR 50 KG",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -154,7 +154,7 @@
  },
  {
    "ncm": 1039200,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01039200 - OUTS.SUÍNOS REPROD.PESO IGUAL OU SUP 50 KG",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -163,7 +163,7 @@
  },
  {
    "ncm": 1041011,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01041011 - OVINOS REP.RAÇA PURA,PRENHE OU C/CRIA AO PÉ",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -172,7 +172,7 @@
  },
  {
    "ncm": 1041019,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01041019 - OUTROS OVINOS REPRODUTORES DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -181,7 +181,7 @@
  },
  {
    "ncm": 1041090,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01041090 - OUTROS ANIMAIS DA ESPÉCIES OVINAS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -190,7 +190,7 @@
  },
  {
    "ncm": 1042010,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01042010 - CAPRINOS REPRODUTORES DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -199,7 +199,7 @@
  },
  {
    "ncm": 1042090,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01042090 - OUTS.CAPRINOS REPRODUTORES DE RAÇA PURA",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -208,7 +208,7 @@
  },
  {
    "ncm": 1051110,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01051110 - GALO E GALINHA REP.RAÇA PUR/ HIBRI.Ñ SUP.185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -217,7 +217,7 @@
  },
  {
    "ncm": 1051190,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01051190 - OUTROS GALOS E GALINHAS NÃO SUPERIOR A 185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -226,7 +226,7 @@
  },
  {
    "ncm": 1051200,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01051200 - PERUAS E PERUS, PESO NÃO SUPERIOR A 185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -235,7 +235,7 @@
  },
  {
    "ncm": 1051300,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01051300 - PATOS DOMÉSTICOS, VIVOS DE PESO INFERIOR A 185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -244,7 +244,7 @@
  },
  {
    "ncm": 1051400,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01051400 - GANSOS DOMÉSTICOS, VIVOS DE PESO INFERIOR A 185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -253,7 +253,7 @@
  },
  {
    "ncm": 1051500,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01051500 - GALINHAS D'ANGOLA (PINTADAS) DOMEST.VIVAS D/PESO INF.A",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -262,7 +262,7 @@
  },
  {
    "ncm": 1059400,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01059400 - GALOS E GALINHAS DE PESO Ñ SUPERIOR A 185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -271,7 +271,7 @@
  },
  {
    "ncm": 1059900,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01059900 - OUTRAS AVES DAS ESP.DOMÉSTICAS,PESO >185G",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -280,7 +280,7 @@
  },
  {
    "ncm": 1061100,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01061100 - MAMÍFEROS PRIMATAS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -289,7 +289,7 @@
  },
  {
    "ncm": 1061200,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01061200 - BALEIAS,GOLF.,BOTOS;PEIXES-BOIS,DUDONG;OTÁRIAS,FOCAS,ET",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -298,7 +298,7 @@
  },
  {
    "ncm": 1061300,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01061300 - CAMELOS E OUTROS CAMELÍDIOS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -307,7 +307,7 @@
  },
  {
    "ncm": 1061400,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01061400 - COELHOS E LEBRES VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -316,7 +316,7 @@
  },
  {
    "ncm": 1061900,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01061900 - OUTROS MAMÍFEROS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -325,7 +325,7 @@
  },
  {
    "ncm": 1062000,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01062000 - RÉPTEIS,SERPENTES E TARTAR.MARINHAS,VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -334,7 +334,7 @@
  },
  {
    "ncm": 1063100,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01063100 - AVES DE RAPINA VIVAS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -343,7 +343,7 @@
  },
  {
    "ncm": 1063200,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01063200 - PSITACIFORMES(PAP.PER.ARARAS,CACATUAS)VIVO",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -352,7 +352,7 @@
  },
  {
    "ncm": 1063310,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01063310 - AVESTRUZES (STRUTHIO CAMELUS) PARA REPRODUÇÃO",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -361,7 +361,7 @@
  },
  {
    "ncm": 1063390,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01063390 - OUTROS AVESTRUZES VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -370,7 +370,7 @@
  },
  {
    "ncm": 1063900,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01063900 - OUTRAS AVES VIVAS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -379,7 +379,7 @@
  },
  {
    "ncm": 1064100,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01064100 - ABELHAS VIVAS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -388,7 +388,7 @@
  },
  {
    "ncm": 1064900,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01064900 - OUTROS INSETOS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
@@ -397,7 +397,7 @@
  },
  {
    "ncm": 1069000,
-   "category": "ANIMAIS VIVOS\n",
+   "category": "ANIMAIS VIVOS",
    "description": "01069000 - OUTROS ANIMAIS VIVOS",
    "startOfUse": "2016-01-01",
    "endOfUse": "",
