@@ -1,5 +1,5 @@
 
-# Sobre o NCM
+# NCM - Nomenclatura Comum do Mercosul
 
 Projeto de uma tabela de NCM para buscar o código e suas respectivas informações. Para visualizar a tabela [clique aqui](https://felipemotabr.github.io/NCM/) 
 
