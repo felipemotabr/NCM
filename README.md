@@ -21,4 +21,4 @@ Para a emissão de uma NFe obrigatoriamente precisa conter a informação do NCM
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+Open sourced under the [MIT license](LICENSE).
