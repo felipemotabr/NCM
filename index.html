@@ -14,9 +14,9 @@
     <section class="page-header">
       <h1 class="project-name">NCM</h1>
       <h2 class="project-tagline">Nomenclatura Comum do Mercosul</h2>
-      <a href="#" class="btn">View on GitHub</a>
-      <a href="#" class="btn">Download .zip</a>
-      <a href="#" class="btn">Download .tar.gz</a>
+      <a href="https://github.com/felipemotabr/NCM" class="btn">View on GitHub</a>
+      <a href="https://github.com/felipemotabr/NCM/archive/master.zip" class="btn">Download .zip</a>
+      <a href="https://github.com/felipemotabr/NCM/archive/master.tar.gz" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
@@ -33,7 +33,7 @@
                 <th>Descrição</th>
                 <th>Início da Vigência</th>
                 <th>Fim da Vigência</th>
-                <th>uTrib</th>
+                <!-- <th>uTrib</th> -->
                 <th>Descrição da uTrib</th>
             </tr>
         </thead>
@@ -44,7 +44,7 @@
                 <th>Descrição</th>
                 <th>Início da Vigência</th>
                 <th>Fim da Vigência</th>
-                <th>uTrib</th>
+                <!-- <th>uTrib</th> -->
                 <th>Descrição da uTrib</th>
             </tr>
         </tfoot>
@@ -96,9 +96,23 @@
             { "data": "description" },
             { "data": "startOfUse" },
             { "data": "endOfUse" },
-            { "data": "uTrib" },
+            // { "data": "uTrib" },
             { "data": "uTribDescription" }
-        ]
+        ],
+        "language": {
+            "lengthMenu": "Mostrar _MENU_ registro por página",
+            "zeroRecords": "Nada para mostrar",
+            "search": "Buscar:",
+            "paginate": {
+                    "first":      "Primeiro",
+                    "last":       "Último",
+                    "next":       "Próximo",
+                    "previous":   "Anterior"
+              },
+            "info": "Página _PAGE_ de _PAGES_",
+            "infoEmpty": "Sem registro",
+            "infoFiltered": "(filtered from _MAX_ total records)"
+        }
     } );
     } );
     </script>
