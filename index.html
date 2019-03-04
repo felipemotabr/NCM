@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>NCM - Nomenclatura Comum do Mercosul</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/cayman.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">NCM</h1>
+      <h2 class="project-tagline">Nomenclatura Comum do Mercosul</h2>
+      <a href="#" class="btn">View on GitHub</a>
+      <a href="#" class="btn">Download .zip</a>
+      <a href="#" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+
+      <p>Para a emissão de uma NFe obrigatoriamente precisa conter a informação do NCM dos produtos.
+        Qualquer mercadoria, importada ou comprada no Brasil, deve ter um código NCM na sua documentação 
+        legal (nota fiscal, livros legais, etc.), cujo objetivo é classificar os itens de acordo com regulamentos do Mercosul.</p>
+
+      <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>NCM</th>
+                <th>Categoria</th>
+                <th>Descrição</th>
+                <th>Início da Vigência</th>
+                <th>Fim da Vigência</th>
+                <th>uTrib</th>
+                <th>Descrição da uTrib</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>NCM</th>
+                <th>Categoria</th>
+                <th>Descrição</th>
+                <th>Início da Vigência</th>
+                <th>Fim da Vigência</th>
+                <th>uTrib</th>
+                <th>Descrição da uTrib</th>
+            </tr>
+        </tfoot>
+    </table>
+
+
+      <h1>
+      <a id="user-content-header-1" class="anchor" href="#header-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>O que é o Sistema Harmonizado (SH)</h1>
+
+      <p>O Sistema Harmonizado de Designação e de Codificação de Mercadorias, ou simplesmente Sistema Harmonizado (SH), 
+        é um método internacional de classificação de mercadorias, baseado em uma estrutura de códigos e respectivas descrições.</p>
+      <p>Este Sistema foi criado para promover o desenvolvimento do comércio internacional, assim como aprimorar a coleta,
+        a comparação e a análise das estatísticas, particularmente as do comércio exterior. Além disso,
+         o SH facilita as negociações comerciais internacionais, a elaboração das tarifas de fretes e das
+          estatísticas relativas aos diferentes meios de transporte de mercadorias e de outras informações
+           utilizadas pelos diversos intervenientes no comércio internacional. </p>
+      <p>>A composição dos códigos do SH, formado por seis dígitos, permite que sejam atendidas
+         as especificidades dos produtos, tais como origem, matéria constitutiva e aplicação,
+          em um ordenamento numérico lógico, crescente e de acordo com o nível de sofisticação das mercadorias.
+      </p>
+
+      
+
+
+      <hr>
+
+
+      <footer class="site-footer">
+
+        <span class="site-footer-owner">Projeto desenvolvido por <a href="https://github.com/felipemotabr">Felipe Mota</a>.</span>
+        <span class="site-footer-credits"><a href="https://github.com/jasonlong/cayman-theme">Cayman</a> is maintained by <a href="https://github.com/jasonlong">jasonlong</a>.</span>
+      </footer>
+
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+    <script>
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "ajax": {
+            "url": "ncm.txt",
+            "dataSrc": ""
+        },
+        "columns": [
+            { "data": "ncm" },
+            { "data": "category" },
+            { "data": "description" },
+            { "data": "startOfUse" },
+            { "data": "endOfUse" },
+            { "data": "uTrib" },
+            { "data": "uTribDescription" }
+        ]
+    } );
+    } );
+    </script>
+
+  </body>
+</html>
