@@ -6,6 +6,11 @@ Projeto de uma tabela de NCM para buscar o código e suas respectivas informaç�
 ## Sobre o NCM
 Para a emissão de uma NFe obrigatoriamente precisa conter a informação do NCM dos produtos. Qualquer mercadoria, importada ou comprada no Brasil, deve ter um código NCM na sua documentação legal (nota fiscal, livros legais, etc.), cujo objetivo é classificar os itens de acordo com regulamentos do Mercosul.
 
+## Legenda da Tabela
+| NCN | Categoria | Descrição | Início da Vigência | Fim da Vigência | uTrib | Descrição uTrib |
+|---|---|---|---|---|---|---|
+| Código NCM | Categoria do NCM | Descrição do NCM | Início de vigência da NCM  no Siscomex | Fim de vigência da NCM no Siscomex | uTrib para uso em operações de Exportação (Abreviatura) | Descrição da uTrib utilizada em operações de Exportação | 
+
 ## Author
 
 **Felipe Mota**
