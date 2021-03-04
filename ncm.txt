@@ -45607,7 +45607,7 @@
    "category": "PLÁSTICO E SUAS OBRAS",
    "description": "39233000 - GARRAFÕES,FRASCOS E SEMELH. DE PLÁSTICO",
    "startOfUse": "2016-01-01",
-   "endOfUse": "",
+   "endOfUse": "2021-01-01",
    "uTrib": "KG",
    "uTribDescription": "QUILOGRAMA"
  },
@@ -70150,7 +70150,7 @@
    "category": "FERRAMENTAS, ARTIGOS DE CUTELARIA E TALHERES, E SUAS PARTES, DE METAIS COMUNS",
    "description": "82071900 - OUTS.FERRAM.D/PERFUR.,SONDAGEM,E PARTES",
    "startOfUse": "2016-01-01",
-   "endOfUse": "",
+   "endOfUse": "2021-01-01",
    "uTrib": "KG",
    "uTribDescription": "QUILOGRAMA"
  },
@@ -95044,6 +95044,42 @@
    "category": "CONSUMO DE BORDO",
    "description": "99980202 - CONSUMO DE BORDO - QQ.OUTRA MERCADORIA P/AERONAVES",
    "startOfUse": "2016-01-01",
+   "endOfUse": "",
+   "uTrib": "KG",
+   "uTribDescription": "QUILOGRAMA"
+ },
+ {
+   "ncm": 39233010,
+   "category": "PLÁSTICO E SUAS OBRAS",
+   "description": "39233010 - RECIPIENTES PARA GÁS LIQUEFEITO DE PETRÓLEO (GLP)",
+   "startOfUse": "2021-01-01",
+   "endOfUse": "",
+   "uTrib": "KG",
+   "uTribDescription": "QUILOGRAMA"
+ },
+ {
+   "ncm": 39233090,
+   "category": "PLÁSTICO E SUAS OBRAS",
+   "description": "39233090 - Outros",
+   "startOfUse": "2021-01-01",
+   "endOfUse": "",
+   "uTrib": "KG",
+   "uTribDescription": "QUILOGRAMA"
+ },
+ {
+   "ncm": 82071910,
+   "category": "FERRAMENTAS, ARTIGOS DE CUTELARIA E TALHERES, E SUAS PARTES, DE METAIS COMUNS",
+   "description": "82071910 - BROCAS (DRILL BITS)",
+   "startOfUse": "2021-01-01",
+   "endOfUse": "",
+   "uTrib": "KG",
+   "uTribDescription": "QUILOGRAMA"
+ },
+ {
+   "ncm": 82071990,
+   "category": "FERRAMENTAS, ARTIGOS DE CUTELARIA E TALHERES, E SUAS PARTES, DE METAIS COMUNS",
+   "description": "82071990 - OUTRAS",
+   "startOfUse": "2021-01-01",
    "endOfUse": "",
    "uTrib": "KG",
    "uTribDescription": "QUILOGRAMA"
