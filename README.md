@@ -9,9 +9,9 @@ Para a emissão de uma NFe obrigatoriamente precisa conter a informação do NCM
 
 ## Legenda da Tabela
 
-| NCN | Categoria | Descrição | Início da Vigência | Fim da Vigência | uTrib | Descrição uTrib |
-|---|---|---|---|---|---|---|
-| Código NCM | Categoria do NCM | Descrição do NCM | Início de vigência da NCM  no Siscomex | Fim de vigência da NCM no Siscomex | uTrib para uso em operações de Exportação (Abreviatura) | Descrição da uTrib utilizada em operações de Exportação | 
+| NCN | Categoria | Descrição | Início da Vigência | Fim da Vigência | 
+|---|---|---|---|---|
+| Código NCM | Categoria do NCM | Descrição do NCM | Início de vigência da NCM  no Siscomex | Fim de vigência da NCM no Siscomex
 
 ## Autor
 
