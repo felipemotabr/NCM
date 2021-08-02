@@ -5,7 +5,7 @@
   "scss": "./scss/cayman.scss",
   "devDependencies": {
     "autoprefixer": "^6.6.0",
-    "grunt": "~1.0.1",
+    "grunt": "~1.4.1",
     "grunt-browser-sync": "~2.1.1",
     "grunt-contrib": "^0.11.0",
     "grunt-contrib-watch": "~1.0.0",
